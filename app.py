@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import requests
 import plotly.graph_objs as go
-import plotly.express as px
 from pandas.io.json import json_normalize
 from streamlit.ScriptRunner import StopException, RerunException
 
