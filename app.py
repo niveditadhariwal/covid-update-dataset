@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import requests
 from plotly.offline import iplot
 import plotly.graph_objs as go
